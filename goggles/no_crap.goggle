@@ -9,7 +9,7 @@
 .edu$boost=4
 
 ! Boost documentation sites
-$boost=4,readthedocs.io|
+readthedocs.io|$boost=4
 $boost=4,site=docs.python.org
 $boost=4,site=developer.mozilla.org
 $boost=4,site=docs.djangoproject.com
