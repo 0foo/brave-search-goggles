@@ -1,2 +1,2 @@
 # solly-brave-search-goggles
-Contains Brave Search goggles I use to find content
+I believe in the 80/20 rule, so I've purposely made the rule list short to maximize efficiency and maintainability.
