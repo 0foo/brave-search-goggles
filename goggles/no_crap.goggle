@@ -1,6 +1,7 @@
 ! name: No Crap Goggles
 ! description: Removes copycats, low quality sites. Boosts .edu and .org, and official documentation sites.
 ! public: true
+! author: John Solly and 0foo.dev
 
 ! Boost .org and .edu
 .org$boost=4
