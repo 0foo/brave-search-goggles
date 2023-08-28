@@ -21,6 +21,7 @@ $discard,site=www.w3schools.com
 $discard,site=geeksforgeeks.org
 $discard,site=w3schools.com
 $discard,site=quora.com
+$discard,site=roll20.net
 
 ! Boost blogs
 $boost=2,site=github.io
@@ -33,6 +34,9 @@ $boost=2,site=micro.blog
 $boost=4,site=reddit.com
 $boost=4,site=pypi.org
 $boost=4,site=StackOverflow.com
+$boost=4,site=wikidot.com
+$boost=4,site=rpgbot.net
+$boost=4,site=news.ycombinator.com/
 
 
 
