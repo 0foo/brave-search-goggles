@@ -1,1 +1,1 @@
-# solly-brave-search-goggles
+# brave-search-goggles
