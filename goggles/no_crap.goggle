@@ -36,7 +36,7 @@ $boost=4,site=pypi.org
 $boost=4,site=StackOverflow.com
 $boost=4,site=wikidot.com
 $boost=4,site=rpgbot.net
-$boost=4,site=news.ycombinator.com/
+$boost=4,site=news.ycombinator.com
 
 
 
